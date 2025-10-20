@@ -21,7 +21,7 @@ class LandingPage extends StatelessWidget {
                 ),
                 clipBehavior: Clip.antiAlias,
                 child: Image.asset(
-                  'assets/images/gweh.jpeg',
+                  'assets/images/aku.jpg',
                   fit: BoxFit.cover,
                 ),
               ),
